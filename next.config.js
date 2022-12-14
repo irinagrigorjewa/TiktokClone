@@ -4,7 +4,6 @@ const nextConfig = {
     typescript: {
         ignoreBuildErrors: true
     },
-    // swcMinify: true,
     images: {
         domains: ['i.pinimg.com', 'lh3.googleusercontent.com']
     }
